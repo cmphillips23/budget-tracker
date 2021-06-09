@@ -1,6 +1,5 @@
 const FILES_TO_CACHE = [
-  "../routes/api.js",
-  "../models/transaction.js",
+  "/",
   "./index.html",
   "./js/idb.js",
   "./js/index.js",
